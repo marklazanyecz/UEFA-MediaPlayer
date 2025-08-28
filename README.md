@@ -9,10 +9,10 @@ Az alkalmazás célja ingyenesen elérhetővé tenni az UEFA oktatási anyagok r
 - [Jelenlegi verzió](changelog.md) 1.0.0
 ***
 ### Projektstruktúra
-- Java fájlok: src/main/java/com/example/uuefamediaplayer
-- FXML fájl: src/main/resources/com/example/uuefamediaplayer
-- CSS fájl: src/main/resources/styles
-- Felhasználói Kézikönyv: docs/Felhasználó Kézikönyv
+- [Java fájlok](src/main/java/com/example/uefamediaplayer)
+- [FXML fájl](src/main/resources/com/example/uefamediaplayer)
+- [CSS fájl](src/main/resources/styles)
+- [Felhasználói Kézikönyv](docs/)
 ***
 ### Követelmények
 - A projekt futtatásához ajánlott minimum verzió: Java 17
