@@ -25,3 +25,8 @@ Az alkalmazás célja ingyenesen elérhetővé tenni az UEFA oktatási anyagok r
 - Videók kategória szerinti választása
 - Videók lejátszása az átlagos médiakezelő felületek tulajdonságaival
 - Videókhoz tartozó információs képek megjelenítése
+***
+### Fejlesztési lehetőségek
+- Memóriahasználat optimalizálása
+- 20 videós videóteszt lehetősége
+- Összes videó ABC-sorrendben történő megjelenítése egy menüpontban
