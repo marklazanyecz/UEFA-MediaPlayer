@@ -30,3 +30,5 @@ Az alkalmazás célja ingyenesen elérhetővé tenni az UEFA oktatási anyagok r
 - Memóriahasználat optimalizálása
 - 20 videós videóteszt lehetősége
 - Összes videó ABC-sorrendben történő megjelenítése egy menüpontban
+***
+[Pillanatkép az alkalmazásról](docs/images/example.png)
