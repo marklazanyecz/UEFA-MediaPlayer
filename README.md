@@ -6,7 +6,7 @@ Az alkalmazás célja ingyenesen elérhetővé tenni az UEFA oktatási anyagok r
 ***
 ### Elérhetőség
 - Az alkalmazás .exe formában innen [letölthető](https://drive.google.com/drive/folders/1D7tqfXzvJrLM8vRDZBDvScbeVijj1w0I?usp=sharing)
-- Jelenlegi verzió 1.0.0
+- [Jelenlegi verzió](changelog.md) 1.0.0
 ***
 ### Projektstruktúra
 - Java fájlok: src/main/java/com/example/uuefamediaplayer
@@ -19,7 +19,7 @@ Az alkalmazás célja ingyenesen elérhetővé tenni az UEFA oktatási anyagok r
 - A letöltött .exe fájlt a Felhasználói Kézikönyv utasításai szerint lehet futtatni
 ***
 ### Használat
-A felhasználói Kézikönyv szerint
+- A felhasználói Kézikönyv szerint
 ***
 ### Jelenlegi funkciók
 - Videók kategória szerinti választása
