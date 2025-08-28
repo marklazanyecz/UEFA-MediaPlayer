@@ -19,7 +19,7 @@ Az alkalmazás célja ingyenesen elérhetővé tenni az UEFA oktatási anyagok r
 - A letöltött .exe fájlt a Felhasználói Kézikönyv utasításai szerint lehet futtatni
 ***
 ### Használat
-- A felhasználói Kézikönyv szerint
+- A felhasználói Kézikönyv 3. oldalától
 ***
 ### Jelenlegi funkciók
 - Videók kategória szerinti választása
